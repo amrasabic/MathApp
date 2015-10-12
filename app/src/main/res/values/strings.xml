@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Basic Math</string>
+    <string name="submit">Submit</string>
+
+    <string	name="correct_toast">Correct!</string>
+    <string	name="incorrect_toast">Incorrect!</string>
+
+    <string name="progress"></string>
+
+    <string name="generated_content"></string>
+    <string name="correct_results"></string>
+
+    <!--<string name="twelve">5+7</string>-->
+    <!--<string name="four">7-3</string>-->
+    <!--<string name="three">9/3</string>-->
+    <!--<string name="thirty">5*6</string>-->
+    <!--<string name="ninetynine">9*11</string>-->
+    <!--<string name="six">36/6</string>-->
+    <!--<string name="eight">22-14</string>-->
+    <!--<string name="zero">5-5</string>-->
+    <!--<string name="ten">1+9</string>-->
+    <!--<string name="thirtysix">6*6</string>-->
+</resources>
